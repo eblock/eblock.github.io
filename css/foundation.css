@@ -39,7 +39,7 @@
 
 .content {
 	padding-bottom: 4%;
-	padding-right: 1%;
+	padding-right: 10px;
 	}
 	
 .divider {
@@ -125,7 +125,7 @@
 	
 @font-face {
     font-family: 'Garamond';
-    src: url('../fonts/Garamond');
+    src: url('../fonts/Adobe_Caslon_Pro.ttf');
     font-weight: normal;
     font-style: normal;
 	}
