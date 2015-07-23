@@ -124,7 +124,7 @@
 	}
 	
 @font-face {
-    font-family: 'Garamond';
+    font-family: 'Adobe Caslon Pro';
     src: url('../fonts/Adobe_Caslon_Pro.ttf');
     font-weight: normal;
     font-style: normal;
@@ -2069,7 +2069,7 @@ a {
 
 /* Default paragraph styles */
 p {
-  font-family: "Garamond", Garamond, serif;
+  font-family: "Adobe Caslon Pro", Garamond, serif;
   font-size: 0.75rem;
   font-weight: normal;
   line-height: 1.225;
@@ -2281,7 +2281,7 @@ blockquote p {
 @media only screen and (min-width: 40.0625em) {
 
 p {
-  font-family: "Garamond", Garamond, serif;
+  font-family: "Adobe Caslon Pro", Garamond, serif;
   font-size: 0.95rem;
   font-weight: normal;
   line-height: 1.225;
