@@ -116,6 +116,20 @@
 	padding-bottom: 1%;
 	}
 
+.bold {
+	font-family: 'Neuzeit S LT Std';
+    src: url('../fonts/NeuzeitSLTStd-BookHeavy.otf');
+    font-weight: bold;
+    font-style: normal;
+	}
+
+@font-face {
+    font-family: 'Neuzeit S LT Std';
+    src: url('../fonts/NeuzeitSLTStd-BookHeavy.otf');
+    font-weight: bold;
+    font-style: normal;
+	}
+
 @font-face {
     font-family: 'Neuzeit S LT Std';
     src: url('../fonts/NeuzeitSLTStd-Book.otf');
