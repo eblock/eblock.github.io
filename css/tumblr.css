@@ -106,9 +106,19 @@ ol.notes li a:hover{text-decoration:underline}
 	display: block;
 	width: 14px;
 	height: 2px;
-	margin-top: 6px;
-	clear: right;
-	clear: left;
+	margin-top: 10px;
+	margin-bottom: 22px;
+	position: relative;
+	float: left;
+	}
+	
+.dividerinvisible {
+	display: block;
+	width: -moz-calc(100% - 14px);
+    width: -webkit-calc(100% - 14px);
+    width: calc(100% - 14px);
+	height: 2px;
+	margin-top: 10px;
 	margin-bottom: 22px;
 	position: relative;
 	float: left;
