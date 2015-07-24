@@ -1546,7 +1546,7 @@ a {
 
 /* Default paragraph styles */
 p {
-  font-family: "Garamond", Garamond, serif;
+  font-family: "Neuzeit S LT Std","Garamond", Garamond, serif;
   font-size: 0.75rem;
   font-weight: normal;
   line-height: 1.225;
@@ -1569,7 +1569,7 @@ p {
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
   color: #222222;
-  font-family: 'Neuzeit S LT Std', garamond, serif;
+  font-family: "Neuzeit S LT Std", garamond, serif;
   font-style: normal;
   font-weight: normal;
   line-height: 1.4;
@@ -1685,7 +1685,7 @@ abbr {
 @media only screen and (min-width: 40.0625em) {
 
 p {
-  font-family: "Garamond", Garamond, serif;
+  font-family: "Neuzeit S LT Std", "Garamond", Garamond, serif;
   font-size: 0.95rem;
   font-weight: normal;
   line-height: 1.225;
