@@ -38,8 +38,8 @@ span.playcount{font:italic 12px "Adobe Caslon Pro", garamond,'Times New Roman',T
 .question{font:bold 12px "Adobe Caslon Pro",  garamond,'Times New Roman',Times,serif}
 .answer .question{line-height:22px;margin:0 0 10px 0}
 .answer-text{margin:10px 0 0 0}
-#pagination{font:normal "Neuzeit S LT Std", garamond, serif;margin-bottom:100px;width:100%;text-align:center}
-#pagination a,#pagination a:link,#pagination a:visited{text-decoration:none}
+#pagination{font: "Neuzeit S LT Std", garamond, serif;margin-bottom:100px;width:100%;text-align:center}
+#pagination a,#pagination a:link,#pagination a:visited{text-decoration:none; font: "Neuzeit S LT Std", garamond, serif;}
 #nav-next{float:left}
 #nav-prev{float:left}
 ol.notes{list-style-type:none;margin:100px 0 50px 0}
