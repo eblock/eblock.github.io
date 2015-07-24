@@ -5,7 +5,7 @@ header,footer,section,article,nav,aside{display:block}
 
 
 
-#container{width:500px;margin:50px auto;overflow:hidden;font:normal 12px garamond,'Times New Roman',Times,serif}
+#container{width:500px;margin:50px auto;overflow:hidden;font:normal 12px "Adobe Caslon Pro", garamond,'Times New Roman',Times,serif}
 
 #content{width:500px}
 .post{margin:0 0 100px 0}
@@ -16,8 +16,8 @@ header,footer,section,article,nav,aside{display:block}
 .postmeta a,.postmeta a:link,.postmeta a:visited{color:#ccc;border-bottom:1px dotted #ddd;text-decoration:none}
 .postmeta a:hover{color:#333;border-bottom:1px dotted #333;text-decoration:none}
 .caption p{color:#888}
-.post h2{font:normal 12px garamond,'Times New Roman',Times,serif;color:#666;margin:0 0 10px 0}
-.quote p.quote_text{font:italic 12px garamond,'Times New Roman',Times,serif;line-height:22px}
+.post h2{font:normal 12px "Adobe Caslon Pro", garamond,'Times New Roman',Times,serif;color:#666;margin:0 0 10px 0}
+.quote p.quote_text{font:italic 12px "Adobe Caslon Pro", garamond,'Times New Roman',Times,serif;line-height:22px}
 .photo img,.photo a img{width:500px;margin:0 0 15px 0}
 .photoset .caption{margin:15px 0 0 0}
 .conversation ul{line-height:22px;margin:0 0 15px -35px}
@@ -32,13 +32,13 @@ header,footer,section,article,nav,aside{display:block}
 .link h2{margin:0 0 20px 0}
 .link h2 a,.link h2 a:link,.link h2 a:visited{color:#666}
 .link h2 a:after{margin:0 0 0 5px;padding:0 2px;content:"link";font-style:italic;font-weight:bold;color:#fff;background:#ccc;font-size:85%}
-.audio_details{font-family:garamond,'Times New Roman',Times,serif;margin:10px 0 15px 0}
-span.playcount{font:italic 12px garamond,'Times New Roman',Times,serif}
+.audio_details{font-family: "Adobe Caslon Pro", garamond,'Times New Roman',Times,serif;margin:10px 0 15px 0}
+span.playcount{font:italic 12px "Adobe Caslon Pro", garamond,'Times New Roman',Times,serif}
 .video iframe{margin:0 0 15px 0}
-.question{font:bold 12px garamond,'Times New Roman',Times,serif}
+.question{font:bold 12px "Adobe Caslon Pro",  garamond,'Times New Roman',Times,serif}
 .answer .question{line-height:22px;margin:0 0 10px 0}
 .answer-text{margin:10px 0 0 0}
-#pagination{font:normal garamond,serif;margin-bottom:100px;width:100%;text-align:center}
+#pagination{font:normal "Neuzeit S LT Std", garamond, serif;margin-bottom:100px;width:100%;text-align:center}
 #pagination a,#pagination a:link,#pagination a:visited{text-decoration:none}
 #nav-next{float:left}
 #nav-prev{float:left}
@@ -283,7 +283,7 @@ body {
   background: #fff;
   color: #222;
   cursor: auto;
-  font-family: Garamond, Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Adobe Caslon Pro", Garamond, Helvetica, Roboto, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: 1.5;
@@ -1541,7 +1541,7 @@ a {
 
 /* Default paragraph styles */
 p {
-  font-family: "Adobe Caslon Pro", "Garamond", Garamond, serif;
+  font-family: "Adobe Caslon Pro", Garamond, serif;
   font-size: 0.75rem;
   font-weight: normal;
   line-height: 1.225;
@@ -1680,7 +1680,7 @@ abbr {
 @media only screen and (min-width: 40.0625em) {
 
 p {
-  font-family: "Adobe Caslon Pro", "Garamond", Garamond, serif;
+  font-family: "Adobe Caslon Pro", Garamond, serif;
   font-size: 0.95rem;
   font-weight: normal;
   line-height: 1.225;
