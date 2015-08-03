@@ -175,7 +175,17 @@ ul h3 {
   margin-left: 10px;
   margin-right: 10px;
   }
-	
+  
+.custom-underline-1 {
+    box-shadow: inset 0 0px 0 white, inset 0 -5px 0 #aae34c;
+    border-bottom: 1px solid #aae34c;
+}
+
+.custom-underline-2 {
+    box-shadow: inset 0 0px 0 white, inset 0 -5px 0 #ffdadd;
+    border-bottom: 1px solid #ffdadd;
+}
+  
 /* END OF ADDED CSS */
 
 meta.foundation-version {
